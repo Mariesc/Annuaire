@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4
+N;ENCODING=QUOTED-PRINTABLE:Boby;Billy
+FN;ENCODING=QUOTED-PRINTABLE:Boby;Billy
+ORG;ENCODING=QUOTED-PRINTABLE:Subway
+TEL;TYPE=fixe,voice;VALUE=uri:tel:
+TEL;TYPE=faxe,voice;VALUE=uri:tel:
+TEL;TYPE=personnel,voice;VALUE=uri:tel:
+TEL;TYPE=portable,voice;VALUE=uri:tel:
+ADR;TYPE=HOME;LABEL=2 Rue du Corocodille  33800 Bordeaux France
+BDAY:2000-12-01
+END:VCARD
